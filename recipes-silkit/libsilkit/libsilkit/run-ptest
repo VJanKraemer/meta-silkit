@@ -1,0 +1,7 @@
+#!/bin/sh
+
+if ./SilKitUnitTests ; then
+    echo "PASS: libsilkit"
+else
+    echo "FAIL: libsilkit"
+fi
