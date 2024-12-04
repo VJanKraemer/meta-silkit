@@ -1,13 +1,13 @@
-# meta-silkit - Yocto Recipes for SilKit + Adapters
+# meta-silkit - Yocto Recipes for SIL Kit + Adapters
 This repository contains a meta layer for the Yocto Project. It allows you to build SIL Kit as part of your custom distro build with bitbake and the Yocto Project.
 It contains recipes for the following packages:
 
 * libsilkit
     * The SIL Kit library, developer and utility tools
-* silkit-adapter-vcan
-    * SIL Kit adapters for SocketCAN in the linux kernel
 * silkit-adapter-tap
-    * SIL Kit adapters for tap devices
+    * Vector SIL Kit Adapter for TAP devices
+* silkit-adapter-vcan
+    * Vector SIL Kit Adapter for virtual CAN (SocketCAN) devices
 
 For more information, please visit:
 

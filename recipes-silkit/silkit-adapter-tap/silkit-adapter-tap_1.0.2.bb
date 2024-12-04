@@ -1,4 +1,4 @@
-DESCRIPTION = "silkit adapter to connect tap devices"
+DESCRIPTION = "Vector SIL Kit Adapter for TAP devices - A collection of software to connect TAP devices to the Vector SIL Kit"
 LICENSE = "MIT"
 HOMEPAGE = "https://github.com/vectorgrp/sil-kit-adapters-tap"
 BUGTRACKER = "https://github.com/vectorgrp/sil-kit-adapters-tap/issues"

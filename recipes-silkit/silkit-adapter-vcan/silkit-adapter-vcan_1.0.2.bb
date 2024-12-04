@@ -1,4 +1,4 @@
-DESCRIPTION = "silkit adapter to adapt CAN-Frames"
+DESCRIPTION = "Vector SIL Kit Adapter for virtual CAN - A collection of software to connect virtual CAN devices to the Vector SIL Kit"
 HOMEPAGE = "https://github.com/vectorgrp/sil-kit-adapters-vcan"
 BUGTRACKER = "https://github.com/vectorgrp/sil-kit-adapters-vcan/issues"
 LICENSE = "MIT"
